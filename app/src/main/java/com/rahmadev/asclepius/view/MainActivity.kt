@@ -1,4 +1,4 @@
-package com.dicoding.asclepius.view
+package com.rahmadev.asclepius.view
 
 import android.content.Intent
 import android.net.Uri
@@ -6,9 +6,9 @@ import android.os.Bundle
 import android.widget.Toast
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
-import com.dicoding.asclepius.databinding.ActivityMainBinding
-import com.dicoding.asclepius.helper.ImageClassifierHelper
-import com.dicoding.asclepius.model.Result
+import com.rahmadev.asclepius.databinding.ActivityMainBinding
+import com.rahmadev.asclepius.helper.ImageClassifierHelper
+import com.rahmadev.asclepius.model.Result
 import org.tensorflow.lite.task.vision.classifier.Classifications
 import java.text.NumberFormat
 

@@ -1,11 +1,11 @@
-package com.dicoding.asclepius.view
+package com.rahmadev.asclepius.view
 
 import android.os.Build
 import android.os.Build.VERSION
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.dicoding.asclepius.databinding.ActivityResultBinding
-import com.dicoding.asclepius.model.Result
+import com.rahmadev.asclepius.databinding.ActivityResultBinding
+import com.rahmadev.asclepius.model.Result
 
 class ResultActivity : AppCompatActivity() {
     private lateinit var binding: ActivityResultBinding

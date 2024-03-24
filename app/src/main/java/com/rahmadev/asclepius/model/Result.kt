@@ -1,4 +1,4 @@
-package com.dicoding.asclepius.model
+package com.rahmadev.asclepius.model
 
 import android.net.Uri
 import android.os.Parcelable

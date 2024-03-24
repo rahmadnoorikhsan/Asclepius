@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.dicoding.asclepius"
+    namespace = "com.rahmadev.asclepius"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.dicoding.asclepius"
+        applicationId = "com.rahmadev.asclepius"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

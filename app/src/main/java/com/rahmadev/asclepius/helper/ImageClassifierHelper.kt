@@ -1,4 +1,4 @@
-package com.dicoding.asclepius.helper
+package com.rahmadev.asclepius.helper
 
 import android.content.Context
 import android.graphics.Bitmap
@@ -7,7 +7,7 @@ import android.net.Uri
 import android.os.Build
 import android.provider.MediaStore
 import android.util.Log
-import com.dicoding.asclepius.R
+import com.rahmadev.asclepius.R
 import org.tensorflow.lite.DataType
 import org.tensorflow.lite.support.common.ops.CastOp
 import org.tensorflow.lite.support.image.ImageProcessor

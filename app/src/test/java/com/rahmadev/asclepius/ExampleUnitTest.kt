@@ -1,4 +1,4 @@
-package com.dicoding.asclepius
+package com.rahmadev.asclepius
 
 import org.junit.Test
 
