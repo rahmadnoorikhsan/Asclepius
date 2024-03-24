@@ -10,6 +10,7 @@ import com.dicoding.asclepius.model.Result
 class ResultActivity : AppCompatActivity() {
     private lateinit var binding: ActivityResultBinding
 
+    @Suppress("DEPRECATION")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityResultBinding.inflate(layoutInflater)
