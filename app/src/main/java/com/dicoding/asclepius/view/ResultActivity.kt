@@ -18,7 +18,7 @@ class ResultActivity : AppCompatActivity() {
         val result = if (VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
             intent.getParcelableExtra("result", Result::class.java)
         } else {
-            intent.getParcelableExtra<Result>("result")
+            intent.getParcelableExtra("result")
         }
 
         binding.apply {
