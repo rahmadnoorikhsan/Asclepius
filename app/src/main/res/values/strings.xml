@@ -6,4 +6,10 @@
     <string name="analyze">Analyze</string>
     <string name="result">Hasil Analisis</string>
     <string name="image_classifier_failed">Image Classifier gagal melakukan inisialisasi</string>
+    <string name="history">History</string>
+    <string name="preview">Preview Image</string>
+    <string name="nav_view_shared_element_transition_name">navigation_view_shared_element</string>
+    <string name="image_required">Silahkan masukkan gambar</string>
+    <string name="article_recommend">Rekomendasi Artikel</string>
+    <string name="image_result">Image Result</string>
 </resources>
